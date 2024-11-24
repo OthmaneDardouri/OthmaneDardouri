@@ -15,7 +15,6 @@ const othmane = {
   pronouns: "he" | "him",
   code: ["Python", "MiniZinc", "Java", "C/C++", "SQL","Prolog"],
   tools: ["PyTorch", "TensorFlow", "Docker", "Git", "Graph Neural Networks (GNNs)", "Reinforcement Learning"],
- ,
   challenge: "I am delving deeper into Graph Neural Networks and exploring their applications in real-world contexts."
 };,
 
