@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dardouri Othmane! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm94MGx4aG5ubWYxZW04MzExNWd4bjA3ajZhc3c0NmEzMDhscXp0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Artificial Intelligence Graduate at University of Bologna<a href="https://corsi.unibo.it/2cycle/artificial-intelligence">University of Bologna</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Computer Science UnderGraduate at University of Florence<a href="https://www.informatica.unifi.it/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Artificial Intelligence Graduate at University of Bologna<a href="https://corsi.unibo.it/2cycle/artificial-intelligence">University of Bologna</a><img src="[https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm94MGx4aG5ubWYxZW04MzExNWd4bjA3ajZhc3c0NmEzMDhscXp0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif)" width="30"></br>Computer Science UnderGraduate at University of Florence<a href="https://www.informatica.unifi.it/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Othmane Dardouri](https://img.shields.io/twitter/follow/OthmaneDardouri?style=social)](https://twitter.com/OthmaneDardouri)
