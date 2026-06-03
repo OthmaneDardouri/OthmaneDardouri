@@ -78,7 +78,7 @@ const othmane = {
 
 <p align="center">
   <b>Discover your champion for today.</b><br/>
-  A neon-lit League of Legends roulette built for quick rolls, sharp vibes, and a little Zaun chaos.
+
 </p>
 
 <p align="center">
