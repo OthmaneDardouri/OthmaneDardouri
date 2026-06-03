@@ -68,12 +68,7 @@ const othmane = {
 - Practical ML and AI engineering.
 - Clean, useful, and memorable portfolio projects.
 
-## Live site
-
-- **Repo:** [OthmaneDardouri.github.io](https://github.com/OthmaneDardouri/OthmaneDardouri.github.io)
-- **Site:** [othmanedardouri.github.io](https://othmanedardouri.github.io/)
-
-## Fun corner
+## Discover your champion for today
 
 <p align="center">
   <a href="https://github.com/OthmaneDardouri/league-champion-roulette">
@@ -82,10 +77,14 @@ const othmane = {
 </p>
 
 <p align="center">
-  <b>League Champion Roulette</b><br/>
-  A small side project that rolls a random League of Legends champion using Riot Data Dragon assets.
+  <b>Discover your champion for today.</b><br/>
+  A small League of Legends roulette that rolls a random champion using Riot Data Dragon assets.
 </p>
 
+<p align="center">
+  <a href="https://github.com/OthmaneDardouri/OthmaneDardouri.github.io">Repo</a> ·
+  <a href="https://othmanedardouri.github.io/">Live site</a>
+</p>
 ## Note
 
 A GitHub profile README cannot run a full interactive HTML app directly inside the profile page, so the best setup is to keep the profile clean and place a large linked preview for the League mini-project at the end.
