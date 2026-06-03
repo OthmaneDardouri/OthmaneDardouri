@@ -75,7 +75,11 @@ const othmane = {
     <img src="https://raw.githubusercontent.com/OthmaneDardouri/ekko_gif/main/ekko_true_damage.gif" alt="Ekko True Damage GIF" width="720" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://othmanedardouri.github.io/">
+    <img src="https://img.shields.io/badge/ENTER%20THE%20ROULETTE-00D6C9?style=for-the-badge&logo=github&logoColor=0d1117" alt="Enter the roulette" />
+  </a>
+</p>
 <p align="center">
   <b>Discover your champion for today.</b><br/>
   A small League of Legends roulette that rolls a random champion using Riot Data Dragon assets.
