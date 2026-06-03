@@ -75,20 +75,14 @@ const othmane = {
     <img src="https://raw.githubusercontent.com/OthmaneDardouri/ekko_gif/main/ekko_true_damage.gif" alt="Ekko True Damage GIF" width="720" />
   </a>
 </p>
-<p align="center">
-  <a href="https://othmanedardouri.github.io/">
-    <img src="https://img.shields.io/badge/DISCOVER%20YOUR%20CHAMPION-1f2c2b?style=for-the-badge&logo=github&logoColor=d8a24a" alt="Discover your champion" />
-  </a>
-</p>
+
 <p align="center">
   <b>Discover your champion for today.</b><br/>
-  A small League of Legends roulette that rolls a random champion using Riot Data Dragon assets.
+  A neon-lit League of Legends roulette built for quick rolls, sharp vibes, and a little Zaun chaos.
 </p>
 
 <p align="center">
-  <a href="https://github.com/OthmaneDardouri/OthmaneDardouri.github.io">Repo</a> ·
-  <a href="https://othmanedardouri.github.io/">Live site</a>
+  <a href="https://othmanedardouri.github.io/">
+    <img src="https://img.shields.io/badge/DISCOVER%20THE%20ROULETTE-00D6C9?style=for-the-badge&logo=github&logoColor=0d1117" alt="Discover the roulette" />
+  </a>
 </p>
-## Note
-
-A GitHub profile README cannot run a full interactive HTML app directly inside the profile page, so the best setup is to keep the profile clean and place a large linked preview for the League mini-project at the end.
