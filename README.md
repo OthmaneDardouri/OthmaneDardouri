@@ -77,7 +77,7 @@ const othmane = {
 </p>
 <p align="center">
   <a href="https://othmanedardouri.github.io/">
-    <img src="https://img.shields.io/badge/ENTER%20THE%20ROULETTE-00D6C9?style=for-the-badge&logo=github&logoColor=0d1117" alt="Enter the roulette" />
+    <img src="https://img.shields.io/badge/DISCOVER%20YOUR%20CHAMPION-1f2c2b?style=for-the-badge&logo=github&logoColor=d8a24a" alt="Discover your champion" />
   </a>
 </p>
 <p align="center">
